@@ -5,4 +5,4 @@
 - 파일 사이즈는 0~200MB 까지 지원 가능해야 한다.
 - 파일의 메타데이터는 RDS 에 저장한다.
 ## 아키텍처
-![image](https://github.com/user-attachments/assets/ff86e3ed-3895-4938-b51d-08b4a28b324d)
+<img src="https://github.com/user-attachments/assets/f4bd58d5-4e69-4ca5-9ffb-1781da56b85c" alt="아키텍처" width="600"/>
